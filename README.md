@@ -21,11 +21,11 @@ and helping make technology safer for everyone.
 <h2><span style="color:#4da6ff;">📂 Repository Structure</span></h2>
 <hr>
 
-🌐 Simple-HTML-Site
-👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Simple-HTML-Site)
+<h3><span style="color:#ffd11a;">🌐 Simple-HTML-Site</span></h3>
+📂 <a href="https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Simple-HTML-Site" style="color:#00ccff;"><strong>Open folder</strong></a>
 
-A small practice website I built while learning
-HTML basics.
+<p>A small practice website I built while learning
+HTML basics.</p>
 
 🐧 Linux-Notes
 👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Linux-Notes)
