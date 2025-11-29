@@ -17,28 +17,33 @@ professional.
 📂 Repository Structure
 
 📂 Simple-HTML-Site
+👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Simple-HTML-Site)
 
 A small practice website I built while learning
 HTML basics.
 
 📂 Linux-Notes
+👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Linux-Notes)
 
 Notes of Linux commands, file system
 navigation, permissions, bash basics, and
 more.
 
 📂 Networkings-Notes
+👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Networking-Notes)
 
 My notes covering IP addressing, DNS, HTTP/
 HTTPS, ports, protocols, and networking
 fundamentals.
 
 📂 Web-Fundamentals
+👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Web-Fundamentals)
 
 Everything I learn about how websites work
 under the hood.
 
 📂 TryHackMe-Writeups
+👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/TryHackMe-Writeups)
 
 Writeups from TryHackMe rooms I complete
 (Pre-Security & later).
