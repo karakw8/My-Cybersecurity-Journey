@@ -18,29 +18,30 @@ and helping make technology safer for everyone.
   Pre-Security path
 - 💻 Building my first projects and notes to track my progress
 
-📂 Repository Structure
+<h2><span style="color:#4da6ff;">📂 Repository Structure</span></h2>
+<hr>
 
-📂 Simple-HTML-Site
+🌐 Simple-HTML-Site
 👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Simple-HTML-Site)
 
 A small practice website I built while learning
 HTML basics.
 
-📂 Linux-Notes
+🐧 Linux-Notes
 👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Linux-Notes)
 
 Notes of Linux commands, file system
 navigation, permissions, bash basics, and
 more.
 
-📂 Networkings-Notes
+🌐 Networkings-Notes
 👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Networking-Notes)
 
 My notes covering IP addressing, DNS, HTTP/
 HTTPS, ports, protocols, and networking
 fundamentals.
 
-📂 Web-Fundamentals
+💻 Web-Fundamentals
 👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Web-Fundamentals)
 
 Everything I learn about how websites work
