@@ -11,13 +11,16 @@ I chose cybersecurity because I enjoy problem-solving, understanding systems,
 and helping make technology safer for everyone.
 
 <h2><span style="color:#ffaa00">📌 About Me</span></h2> 
-- 🔒 Beginner in cybersecurity
-- 🐧 Currently learning Linux, Networking,
-  and Web Fundamentals
-- 📚 Following freeCodeCamp + TryHackMe
-  Pre-Security path
-- 💻 Building my first projects and notes to track my progress
+Hi! Im currently at the beginning of my cybersecurity journey, focusing on buildig strong fundamentals while learning through hand-on practice.
 
+<ul>
+   <li>🟢<strong>Beginner in cybersecurity</strong></li>
+   <li>🐧 Learning <strong>Linux</strong>, <strong>Networking</strong>, and <strong>Web Fundamentals</strong></li>
+   <li>🧩 Following <strong>freeCodeCamp</strong> and <strong>TryHackMe</strong> (Pre-Security path)</li>
+   <li>🛠 Building small projects and taking structured notes to track my progress</li>
+</ul>
+
+   
 <h2><span style="color:#4da6ff;">📂 Repository Structure</span></h2>
 <hr>
 
