@@ -72,23 +72,26 @@ under the hood.
 </ul>
 
 
-🧰 Tools I'm Learning
-- Linux
-- Bash commands
-- Git & GitHub
-- Basic networking tools (pings, traceroute,
-- nmap, later on)
-- VS Code
-- Browser DevTools
+<h2>🧰 Tools I'm Learning</h2>
 
-🎯 My Goals
-- Build a strong foundation in Linux and
-  Networking
-- Complete TryHackMe Pre-Security ->
-  Introduction to Cybersecurity -> SOC Level 1
-- Create 3-5 small cybersecurity projects
-- Get ready for my first internship/job in the
-- field
+<ul>
+   <li>🐧 <strong>Linux</strong> - system navigation, perimissions, scripting</li>
+   <li>💻 <strong>Bash</strong> - essential commands & automation basics</li>
+   <li>🔗 <strong>Git & GitHub</strong> - version control + documentation</li>
+   <li>🌐 <strong>Networking tools</strong> - ping, traceroute, netstat, nmap</li>
+   <li>📝 <strong>VS Code</strong> - main development/editor environment</li>
+   <li>🧪 <strong>Browser DevTools</strong> - web debugging & analysis</li>
+</ul>
+
+<h2>🎯 My Goals</h2>
+
+<ul>
+   <li>📓 Master the fundamentals of <strong>Linux</strong> and <strong>Networking</strong></li>
+   <li>🧭 Complete the full <strong>TryHackMe Pre-Security</strong> path</li>
+   <li>🛠 Build <strong>3-5 cybersecurity mini projects</strong></li>
+   <li>🔍 Practice beginner-friendly CTFs and challenges</li>
+   <li>💼 Prepare for <strong>my first cybersecurity internship/job</strong></li>
+</ul>
 
 📈 Progress Tracker
 - Start freeCodeCamp
