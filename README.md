@@ -10,7 +10,7 @@ professional</strong></span>.
 I chose cybersecurity because I enjoy problem-solving, understanding systems,
 and helping make technology safer for everyone.
 
- About Me
+<h2><span style="color:#ffaa00">📌 About Me</span></h2> 
 - 🔒 Beginner in cybersecurity
 - 🐧 Currently learning Linux, Networking,
   and Web Fundamentals
