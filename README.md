@@ -58,11 +58,17 @@ more.</p>
 Everything I learn about how websites work
 under the hood.
 
-📂 TryHackMe-Writeups
-👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/TryHackMe-Writeups)
+<h3><span style="color:#a770ff;">📝 TryHackMe-Writeups</span></h3>
+<a href="https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/TryHackMe-Writeups">
+    📂 Open folder
+</a>
 
-Writeups from TryHackMe rooms I complete
-(Pre-Security & later).
+<ul>
+   <li>🟢 Notes and walkthroughs from TryHackMe rooms</li>
+   <li>🔍 Problem-solving steps and methodology</li>
+   <li>🛠 Tools used during challenges</li>
+</ul>
+
 
 🧰 Tools I'm Learning
 - Linux
