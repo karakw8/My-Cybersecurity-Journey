@@ -1,10 +1,14 @@
-📘 My Cybersecurity Journey
+<h1><span style="color;#4da6ff">📘 My Cybersecurity Journey</span></h1>
 
 Welcome to my cybersecurity learning 
 repository!
 This is where I document everything I learn as
 I work toward becoming a cybersecurity
 professional.
+
+💡 Why Cybersecurity?
+I chose cybersecurity because I enjoy problem-solving, understanding systems,
+and helping make technology safer for everyone.
 
  About Me
 - 🔒 Beginner in cybersecurity
