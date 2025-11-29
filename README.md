@@ -93,14 +93,69 @@ under the hood.
    <li>💼 Prepare for <strong>my first cybersecurity internship/job</strong></li>
 </ul>
 
-📈 Progress Tracker
-- Start freeCodeCamp
-- Create GitHub portfolio
-- Finish Linux basics
-- Finish Networking basics
-- Complete 10 TryHackMe rooms
-- Build a small cybersecurity tool in Python
-- Apply for my first junior position
+<h2>📊 Progress Tracker</h2>
+
+---
+
+## 🟩 Completed Tasks
+> Things I've already accomplished on my cybersecurity journey.
+
+✔ **Start freeCodeCamp**
+✔ ***Create GitHub portfolio***
+
+![Completed] (https:img.shields.io/badge/Completed-2%2F7-brightgreen?style=for-the-badge)
+
+---
+
+## 🟨 In Progress
+> Tasks I'm actively working on.
+
+- [ ] **Finish Linux basics**
+- [ ] **Finish Networking basics**
+- [ ] **Complete 10 TryHackMe rooms**
+- [ ] **Build a small cybersecurity tool in Python**
+
+![In Porgress] (https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+
+---
+
+## 🟥 Upcoming
+> Goals coming soon on my learning path.
+
+- [ ] **Apply for my first juniot position**
+
+![Upcoming] (https://img.shields.io/badge/Upcoming-1_task-red?style=flat-square)
+
+---
+
+## 📈 Overall Progress
+> Auto-calculated visual progress bar.
+
+**Progress**
+`⬜⬜⬜⬜⬛️⬛️⬛️⬛️⬛️⬛️` **40%**
+(2 completed out of 7 total)
+
+---
+
+## 🧊 Task Summary Cards
+
+| Category | Icon | Count | Description |
+|---------|------|--------|-------------|
+| 🟩 Completed | ✔ | **2** | Finished tasks |
+| 🟨 In Progress | 🔄 | **4** | Currently working on |
+| 🟥 Upcoming | ⏳ | **1** | Planned for later |
+
+---
+
+## 🏆 Achievement Badges (Optional)
+
+You can add these too if you want - just testing your progress visually.
+
+- ![Linux] (https://img.shields.io/badge/Linux-Progress-blue?style=flat-square)
+- ![Networking] (https://img.shields.io/badge/Networking-In_Progress-yellow?style=flat-square)
+- ![TryHackMe] (https://img.shields.io/badge/TryHackMe-Active-red?style=flat-square)
+- ![Python] (https://img.shields,io/badge/Python-Learning-green?style=flat-square)
+
 
 🤝 Contact
 
