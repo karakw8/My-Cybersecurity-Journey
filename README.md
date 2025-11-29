@@ -3,8 +3,8 @@
 Welcome to my cybersecurity learning 
 repository!
 This is where I document everything I learn as
-I work toward becoming a cybersecurity
-professional.
+I work toward becoming a <span style="color:green"><strong>cybersecurity
+professional</strong></span>.
 
 💡 Why Cybersecurity?
 I chose cybersecurity because I enjoy problem-solving, understanding systems,
