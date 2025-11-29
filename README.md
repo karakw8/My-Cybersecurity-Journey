@@ -103,7 +103,7 @@ under the hood.
 ✔ **Start freeCodeCamp**
 ✔ ***Create GitHub portfolio***
 
-![Completed] (https:img.shields.io/badge/Completed-2%2F7-brightgreen?style=for-the-badge)
+![Completed] (https://img.shields.io/badge/Completed-2%2F7-brightgreen?style=for-the-badge)
 
 ---
 
