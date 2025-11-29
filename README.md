@@ -6,9 +6,11 @@ This is where I document everything I learn as
 I work toward becoming a <span style="color:green"><strong>cybersecurity
 professional</strong></span>.
 
-💡 Why Cybersecurity?
-I chose cybersecurity because I enjoy problem-solving, understanding systems,
-and helping make technology safer for everyone.
+<h2>🛡 Why Cybersecurity?</h2>
+
+I chose cybersecurity because I've always been curious about how technology works beneath the surface.
+The challenge of uncovering weaknesses, understanding attacks, and defending systems motivates me every day.
+I want to contribute to a safer and more secure digital enviroment for everyone.
 
 <h2><span style="color:#ffaa00">📌 About Me</span></h2> 
 Hi! Im currently at the beginning of my cybersecurity journey, focusing on buildig strong fundamentals while learning through hand-on practice.
