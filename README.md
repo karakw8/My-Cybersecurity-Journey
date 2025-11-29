@@ -36,12 +36,19 @@ HTML basics.</p>
 navigation, permissions, bash basics, and
 more.</p>
 
-🌐 Networkings-Notes
-👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Networking-Notes)
+<h3><span style="color:#70d6ff;">🌐 Networkings-Notes</span></h3>
+<a href="https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Networking-Notes">
+   📂 Open folder
+</a>
 
-My notes covering IP addressing, DNS, HTTP/
-HTTPS, ports, protocols, and networking
-fundamentals.
+<p>
+Notes about netwprking fundamentals, such as:<br>
+- Understanding IP addresses and subnets<br>
+- Ports and protocols (TCP/UDP basics?<br>
+- OSI and TCP/IP models<br>
+- Basic network commands (ping, tracert, ifconfig, netstat)<br>
+- Firewalls, DNS, routing, and more
+</p>
 
 💻 Web-Fundamentals
 👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Web-Fundamentals)
