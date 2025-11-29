@@ -44,14 +44,13 @@ more.</p>
    📂 Open folder
 </a>
 
-<p>
-Notes about netwprking fundamentals, such as:<br>
-- Understanding IP addresses and subnets<br>
-- Ports and protocols (TCP/UDP basics?<br>
-- OSI and TCP/IP models<br>
-- Basic network commands (ping, tracert, ifconfig, netstat)<br>
-- Firewalls, DNS, routing, and more
-</p>
+<ul>
+   <li>🌍 Understanding IP addresses and subnets</li>
+   <li>🔌 Ports and protocols (TCP/UDP basics)</li>
+   <li>🛰️ OSI and TCP/IP models</li>
+   <li>📡 Basic network commands (ping, tracert, ifconfig, netstat)</li>
+   <li>🧱 Firewalls, DNS, routing, and more</li>
+</ul>
 
 💻 Web-Fundamentals
 👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Web-Fundamentals)
