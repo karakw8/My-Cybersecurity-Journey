@@ -27,12 +27,14 @@ and helping make technology safer for everyone.
 <p>A small practice website I built while learning
 HTML basics.</p>
 
-🐧 Linux-Notes
-👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Linux-Notes)
+<hr>
 
-Notes of Linux commands, file system
+<h3><span style="color:#33ff99;">🐧 Linux-Notes</span></h3>
+📂 <a href="https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Linux-Notes" style="color:#70d6ff;"><strong>Open folder</strong></a>
+
+<p>Notes of Linux commands, file system
 navigation, permissions, bash basics, and
-more.
+more.</p>
 
 🌐 Networkings-Notes
 👉 [Open folder] (https://github.com/karakw8/My-Cybersecurity-Journey/tree/main/Networking-Notes)
